@@ -1,6 +1,9 @@
 # Shanling UA4 — PCM фильтры / PCM Filters (Guide / Руководство)
+RU:
 Это двуязычный README, описывающий доступные PCM‑фильтры в Shanling UA4 (чип ESS ES9069Q) — что они делают, как на это ориентироваться на слух и какие профили пробовать для разных целей.
-EN: This bilingual README describes the PCM filters available on the Shanling UA4 (ESS ES9069Q) — what they do, how to compare them by ear, and which ones to try for different listening goals.
+
+EN: 
+This bilingual README describes the PCM filters available on the Shanling UA4 (ESS ES9069Q) — what they do, how to compare them by ear, and which ones to try for different listening goals.
 
 ## Быстрая шпаргалка / Quick reference
 RU:
